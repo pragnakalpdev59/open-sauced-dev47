@@ -41,7 +41,7 @@ const Hero = styled.section`
 const Wrapper = styled.div`
   margin-left: auto;
   margin-right: auto;
-  max-width: 1000px;
+  max-width: 1100px;
 
   ${MEDIA.TABLET`
     padding: 0;
